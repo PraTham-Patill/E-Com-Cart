@@ -1,10 +1,7 @@
-# Mock E-Com Cart
+# E-Com Cart
 
 ## Description
 A full-stack shopping cart application built for Vibe Commerce screening. This project demonstrates UI, API, and database integration for e-commerce flows including add/remove items, totals calculation, and mock checkout functionality (no real payment processing).
-
-## Author
-**Pratham Patil**
 
 ## Features
 - **Product Listing**: Display 5-10 mock products with details
@@ -107,8 +104,3 @@ A full-stack shopping cart application built for Vibe Commerce screening. This p
 └── package.json
 ```
 
-## Author
-Pratham Patil - [GitHub](https://github.com/PraTham-Patill)
-
-## License
-ISC
