@@ -1,7 +1,7 @@
 # E-Com Cart
 
 ## Description
-A full-stack shopping cart application built for Vibe Commerce screening. This project demonstrates UI, API, and database integration for e-commerce flows including add/remove items, totals calculation, and mock checkout functionality (no real payment processing).
+A full-stack shopping cart application built for Vibe Commerce screening. This project demonstrates UI, API, and database integration for e-commerce flows including add/remove items, totals calculation, and checkout functionality .
 
 ## Features
 - **Product Listing**: Display 5-10 mock products with details
